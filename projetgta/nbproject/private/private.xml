@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/views/home.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/controllers/Modif_salarie.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/views/admin.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/views/liste_salarie.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/models/Salarie_model.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/controllers/Liste_salarie.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/controllers/Home.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/models/Registration_model.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/header.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/models/Maj_model.php</file>
+            <file>file:/Applications/MAMP/htdocs/projetgta/application/views/modif_salarie.php</file>
+        </group>
+    </open-files>
+</project-private>
